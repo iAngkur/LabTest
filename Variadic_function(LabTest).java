@@ -38,7 +38,6 @@ public class Variadic_function {
 		variadic( 2, 4, 5, 6, 7, 8);
 		variadic(9, 3, 5);
 		variadic(3, 2, 5);
-		variadic(0,0,0,0,0);
 	}
 
 }
